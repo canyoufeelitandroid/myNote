@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_fecc8083c0c0f30758fcb79ae6b5e9770151864a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_275b7bc2bec5e24dfe794f7691921f1f2d8c0fe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6d74ea24120e7507074c3fbf2258db1133605ab0">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f25ab06fb5711c0b6399713e049148e3b26782a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a5292ec50a633fe13988405208570a8ce833945f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_35f658fe4b4a3c4a0dd7488f91a81a5be187a3c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_04ad986dcebe88000870afc96b51f28408779393\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c460d218e796c8ba76811f4ff3a382bac6919a49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_89d035c62b58aef01551658a9cdbd9860e50a54e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6d03a99b44f3f0ee290f81a77967f126892c8fd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8ed2c60f727ae63704fe91924668254356989f33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7d40f527921c5f03fa4e38052ee1652778219e9c">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_74cacda07b7959340c3b1711eade56d34296f58b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0978e88f81ab1677bf43f8fd05e56b98d081bdd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_2cd57c1feede15458153ef2e2f86e67b6f78e99d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_416b375036f6bdbddf4a41ddb1f0c74bc589b1d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b52752742b14125e565ca676504ee96adc74acca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_a191b57a80a84c0eaa61426acbfb36391d954381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_f389fde394be7a2c825fffc4395469a433520752\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\mycourse\NotebookTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2c086bd65afddbb321c5ada50d8468041b0f7e76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\adt-bundle-windows-x86_64-20140321_mine\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\mycourse\NotebookTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_9aaecda44f1e69ef4e560da335faf1715b60a09d\classes.dex" />
+    </item>
+
+</items>

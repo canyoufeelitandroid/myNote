@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:background="@color/titleColor"
+    android:orientation="horizontal"
+    android:fitsSystemWindows="true"
+    android:clipToPadding="true"
+    android:paddingRight="3dp"
+    android:id="@+id/titleLine">
+    
+ 
+
+   <ImageButton
+      android:id="@+id/myButton"
+      android:layout_width="50dp"
+      android:layout_height="50dp"
+      android:layout_gravity="center"
+      android:src="@drawable/icon"
+      android:theme="@style/MyButton"
+      android:layout_marginLeft="2dp"
+      />
+  <TextView 
+    android:id="@+id/myText"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_weight="1"
+      android:text="记事本"
+    android:textColor="@color/white"
+    android:textSize="18sp"
+      android:visibility="invisible"
+      />
+    <ImageButton
+        android:id="@+id/picBtn"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/link"
+        android:theme="@style/MyButton"
+        android:visibility="gone"
+        />
+
+  <ImageButton 
+      android:id="@+id/myButton_1"
+      android:layout_width="50dp"
+      android:layout_height="50dp"
+      android:layout_gravity="center"
+      android:layout_marginRight="2dp"
+      android:src="@drawable/search_1"
+      android:theme="@style/MyButton"
+
+      />
+
+</LinearLayout>

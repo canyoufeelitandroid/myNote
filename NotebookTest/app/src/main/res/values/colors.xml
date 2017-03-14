@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titleColor">#FFCC00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mainColor">#FFFFFF</color>
+    <color name="divider">#FAFAFA</color>
+    <color name="searchColor">#FFC125</color>
+    <color name="darkColor">#FF7F00</color>
+    <color name="glay">#FFEC8B</color>
+    <color name="red">#FF0000</color>
+    <color name="simple_red">#FF6A6A</color>
+</resources>

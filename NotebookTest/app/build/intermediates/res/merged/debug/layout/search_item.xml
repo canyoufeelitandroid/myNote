@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/mainColor">
+
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:orientation="horizontal"
+        android:background="@color/titleColor"
+        android:paddingRight="3dp">
+
+        <ImageButton
+            android:id="@+id/sh_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:src="@drawable/icon"
+            android:background="@color/titleColor"
+            android:layout_marginLeft="2dp"
+            />
+
+    <EditText 
+        android:id="@+id/searchText"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="center"
+        android:paddingLeft="8dp"
+        android:hint=" Search..."
+        android:drawableLeft="@drawable/search_1"
+        android:drawablePadding="8dp"
+        android:background="@drawable/search_background"
+        android:textSize="15dp"
+        />
+    </LinearLayout>
+    <ListView 
+        android:id="@+id/lv2"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="10dp"
+        android:divider="@color/divider"
+        android:dividerHeight="15dp"
+        ></ListView>
+
+</LinearLayout>

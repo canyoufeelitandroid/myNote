@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_home"
+            android:icon="@drawable/pikachu"
+            android:title="Live"/>
+        <item
+            android:id="@+id/menu_messages"
+            android:icon="@drawable/work_briefcase"
+            android:title="Work"/>
+        <item
+            android:id="@+id/menu_friends"
+            android:icon="@drawable/party"
+            android:title="Friends"/>
+        <item
+            android:id="@+id/menu_discussion"
+            android:icon="@drawable/all_directions"
+            android:title="All"/>
+    </group>
+
+    <item android:title="Sub items">
+        <menu>
+            <item
+                android:icon="@drawable/sun"
+                android:title="Day Type"/>
+            <item
+                android:icon="@drawable/moon"
+                android:title="Night Type"/>
+        </menu>
+    </item>
+
+</menu>

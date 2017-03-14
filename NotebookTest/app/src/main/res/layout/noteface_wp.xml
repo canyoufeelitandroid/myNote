@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/face_note_1"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/istop_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"/>
+
+    <com.thread.manyclass.AvatarImageView
+        android:id="@+id/note_pic"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/istop_1"
+        android:src="@drawable/e"
+        />
+
+    <LinearLayout
+        android:id="@+id/timeline_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        >
+        <TextView
+            android:id="@+id/dtext_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/ttext_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            />
+        <TextView
+            android:id="@+id/itext_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:visibility="invisible"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/ntext_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:layout_marginBottom="10dp"
+        android:lineSpacingExtra="3dp"
+        android:scaleX="1.0"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/timeline_1"
+        android:layout_toLeftOf="@id/note_pic"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cb_2"
+        android:clickable="false"
+        android:visibility="invisible"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"/>
+</RelativeLayout>

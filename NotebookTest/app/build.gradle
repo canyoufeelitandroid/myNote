@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.example.notebooktest"
+        minSdkVersion 14
+        targetSdkVersion 24
+    }
+    compileOptions {
+        encoding "GBK"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+//    compile 'com.android.support:support-v4:19.1.0'
+//    compile 'com.android.support:design:19.1.0'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+}
